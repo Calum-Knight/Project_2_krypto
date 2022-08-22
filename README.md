@@ -2,15 +2,15 @@
 
 The purpose of this project is to perform "Extract, Transform and Load" (ETL).
 
-#Extract 
+# Extract 
 
 
-#Load
+# Load
 
 
 
 
-#Transform
+# Transform
 
 
 
